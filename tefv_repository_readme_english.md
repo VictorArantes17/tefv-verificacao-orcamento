@@ -43,3 +43,4 @@ tefv-verification-budget/
 
 ---
 
+Arantes, Victor Gonçalves Vieira (2026). Operational Theory of Frustration and Verification Efficiency (TEFV): Orchestration Under a Finite Verification Budget in Coupled-Constraint Systems. DOI: 10.5281/zenodo.24510997. Repository: [https://github.com/VictorArantes17/tefv-verificacao-orcamento](https://github.com/VictorArantes17/tefv-verificacao-orcamento). ORCID: 0009-0005-3565-7904. Initial exploratory study using synthetic data, prepared with AI assistance (Gemini) under author oversight.
