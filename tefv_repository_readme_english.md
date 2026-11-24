@@ -43,9 +43,3 @@ tefv-verification-budget/
 
 ---
 
-## Where to Place Files and How to Publish
-
-1. **GitHub:** upload `README.md`, `LICENSE`, the Portuguese and English manuscripts/PDFs, the Python scripts (lemma verification and paired validation), and sample reports to a public repository.
-2. **Zenodo + DOI:** link the GitHub repository to Zenodo and publish a tagged Release (e.g., `v0.1.0`) to generate a persistent, citable **DOI**.
-3. **ORCID:** link the repository and release **DOI** to your ORCID profile (`0009-0005-3565-7904`).
-4. **Academic venues:** submit to preprint servers, workshops, conferences, or journals following venue guidelines while retaining all ethical, methodological, data-nature, and **Gemini** AI assistance declarations.
